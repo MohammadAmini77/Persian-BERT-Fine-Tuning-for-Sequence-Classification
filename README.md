@@ -1,6 +1,6 @@
 # Persian BERT Fine-Tuning for Sequence Classification
 
-This repository provides a Jupyter Notebook for **fine-tuning Persian BERT models** on a sequence classification task (e.g., sentiment analysis, topic classification, or other NLP tasks in Persian).  
+This repository provides a Jupyter Notebook for **fine-tuning Persian BERT models** on a sequence classification task (e.g., sentiment analysis, topic classification, or other NLP tasks in Persian) from scratch.  
 It demonstrates how to leverage [Hugging Face Transformers](https://huggingface.co/transformers/) to train, evaluate, and test a pre-trained Persian BERT model.
 
 ---
