@@ -89,6 +89,7 @@ The notebook outputs:
 ## 📚 References
 - [ParsBERT](https://huggingface.co/HooshvareLab/bert-base-parsbert-uncased)
 - [Transformers Documentation](https://huggingface.co/docs/transformers/index)
+- [Dataset]("persiannlp/parsinlu_query_paraphrasing")
 
 
 ---
