@@ -94,6 +94,3 @@ The notebook outputs:
 
 ---
 
-## ✍️ Author
-Developed by [Your Name]  
-If you use this code in your research, please cite the notebook or give a ⭐ on GitHub!
