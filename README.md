@@ -90,10 +90,6 @@ The notebook outputs:
 - [ParsBERT](https://huggingface.co/HooshvareLab/bert-base-parsbert-uncased)
 - [Transformers Documentation](https://huggingface.co/docs/transformers/index)
 
----
-
-## 📄 License
-This project is licensed under the [MIT License](LICENSE) – feel free to use and modify.
 
 ---
 
